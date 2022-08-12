@@ -1,6 +1,6 @@
-Olá! Eu sou o Vitor Agnaldo Da Silva
+Olá! Eu sou o Vitor Agnaldo Da Silva 🖐️
 
-😎 Desenvolvedor Web Júnior 
+ Desenvolvedor Web Júnior 😎
 
 
 <div style="display: inline_block"><br>
