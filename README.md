@@ -1,6 +1,6 @@
 Olá! Eu sou o Vitor Agnaldo Da Silva 🖐️
 
- Desenvolvedor Web Júnior 😎
+ Desenvolvedor Front- End Júnior 😎
 
 
 <div style="display: inline_block"><br>
