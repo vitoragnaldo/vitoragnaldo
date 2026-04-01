@@ -1,4 +1,4 @@
-Desenvolvedor de Software Júnior / Analista de Dados!!
+ Analista de Dados!!
 
 
 <div style="display: inline_block"><br>
